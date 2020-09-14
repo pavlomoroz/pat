@@ -1,5 +1,10 @@
 {
-  "orgName": "pmoroz company",
+  "orgName": "Common",
   "edition": "Developer",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  },
   "features": []
 }
